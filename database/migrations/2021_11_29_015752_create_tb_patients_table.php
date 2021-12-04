@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 class CreateTbPatientsTable extends Migration
 {
     /**
-     * Run the migrations.
+     * Run the migrations.asd
      *
      * @return void
      */
