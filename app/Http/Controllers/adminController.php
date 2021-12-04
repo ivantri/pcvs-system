@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Session;
 use Hash;
-
+//asd
 use App\Models\tb_user as User;
 use App\Models\tb_admin as Admin;
 use App\Models\tb_healthcare as HC;
